@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head> 
-    <link rel="stylesheet" href="https://github.com/adriar/holahola/blob/master/estil">
+    <link rel="stylesheet" href="https://github.com/adriar/holahola/blob/master/css.css">
   </head>
   <body>
     <h1 style="color:blue;">Això funciona?</h1>
