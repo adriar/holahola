@@ -7,5 +7,6 @@
   <body>
     <h1>Això funciona?</h1>
     <p>Sembla que sí</p>
+    <p>Però no surten els colors... :(</p>
   </body>
   </html>
