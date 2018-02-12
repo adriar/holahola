@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="https://github.com/adriar/holahola/blob/master/estil">
   </head>
   <body>
-    <p>Això funciona?</p>
+    <h1>Això funciona?</h1>
+    <p>Sembla que sí</p>
   </body>
   </html>
