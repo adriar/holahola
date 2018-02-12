@@ -8,6 +8,7 @@
     <h1 style="color:blue;">Això funciona?</h1>
     <p>Sembla que sí</p>
     <p>Però no surten els colors... :(</p>
+    <img src="pulpitrock.jpg" alt="tigre">
     <p>Editant per veure si podem fer preview... Sí que podem. Ole.</p>
   </body>
   </html>
