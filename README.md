@@ -1,3 +1,9 @@
 # holahola
-a vore
-aquí uns quants canvis
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Això funciona?</p>
+  </body>
+  </html>
